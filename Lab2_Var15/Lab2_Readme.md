@@ -28,3 +28,7 @@ https://github.com/KonovalovaAN/Computer-Graphics.git
 ![image](https://github.com/user-attachments/assets/3673d38d-1472-4614-9c9a-2c6daaf91e15)
 ![image](https://github.com/user-attachments/assets/84cc2eea-1211-4c95-930d-1f58b96fb5e4)
 
+В папке images можно найти изображения для тестирования соответствующих фильтров. 
+
+Для каждого фильра реализованного в данной лабораторной работе выбрано 5 изображений, которые хорошо обрабатываются и 5 изображений, которые демонстрируют плохую обработку соответствующим фильтром
+
