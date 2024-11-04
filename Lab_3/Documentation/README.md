@@ -50,3 +50,9 @@
 * алгоритм Кастла-Питвея (дополнительно).
 Получен практический опыт использования встроенной библиотеки qcustomplot для построения графиков.
 
+Скриншоты:
+
+![image](https://github.com/user-attachments/assets/6aba8954-b3b5-48d5-abdc-cdcc48073f53)
+![image](https://github.com/user-attachments/assets/563c5ea4-f3f5-4a9e-8489-718fe4602260)
+
+
